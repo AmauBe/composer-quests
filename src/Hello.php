@@ -1,10 +1,13 @@
 <?php
 
+namespace App\src;
+use App\src;
+
 class Hello
 {
-    public function talk(): string
+    public function talk()
     {
-        return ('Hello world!');
+        return "Hello World !";
     }
 
 }

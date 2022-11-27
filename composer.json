@@ -3,7 +3,7 @@
     "description": "quest2Composer",
     "autoload": {
         "psr-4": {
-            "Administrateur\\Composer\\": "src/"
+            "App\\": "src/"
         }
     },
     "require": {}
