@@ -1,0 +1,10 @@
+{
+    "name": "administrateur/composer",
+    "description": "quest2Composer",
+    "autoload": {
+        "psr-4": {
+            "Administrateur\\Composer\\": "src/"
+        }
+    },
+    "require": {}
+}
